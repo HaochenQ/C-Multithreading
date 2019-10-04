@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "HW3.C": "cpp",
+        "unistd.h": "c"
+    }
+}
